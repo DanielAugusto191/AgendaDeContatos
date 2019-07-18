@@ -9,3 +9,4 @@ Features:
 - Banco de Dados, mysql
 - Inserir, Deletar, visualizar e alterar contatos
 - Planilha para visualização mais fácil.
+- MVC

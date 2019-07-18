@@ -1,0 +1,9 @@
+
+* Instruções:
+
+- No arquivo conexao.py, deve-se alterar o user, password e port conforme o banco
+de dados ultilizado.
+
+- Na pasta _sql, há o script do banco de dados.
+
+- executar o arquivo: main.py
